@@ -1,0 +1,25 @@
+.menubar-container
+{
+    height: 60px;
+    width: 100%;
+    /*background-color: blue;*/ 
+}
+.spacer
+{
+    height: 60px;
+    /*background-color: red;*/
+    float: left;
+    width:100%;
+    background-image: url("assets/images/bg.gif");
+    background-repeat: repeat-x;
+}
+.maptube-logo
+{
+    position: absolute;
+    right: 0px;
+    height: 60px;
+    width: 123px;
+    background-image: url("assets/images/maptube-logo.gif");
+    background-repeat: no-repeat;
+}
+
