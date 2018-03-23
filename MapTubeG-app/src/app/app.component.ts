@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'MapTube G';
+  mapboxglAccessToken = 'pk.eyJ1IjoicndtaWx0b24iLCJhIjoiSmZINmZDWSJ9.u748qYexge5Txkq4iuUV2Q';
 }

@@ -6,6 +6,11 @@ import { MainMenuBarComponent } from './main-menu-bar/main-menu-bar.component';
   imports: [
     CommonModule
   ],
-  declarations: [MainMenuBarComponent]
+  declarations: [
+    MainMenuBarComponent
+  ],
+  exports: [
+    MainMenuBarComponent
+  ]
 })
 export class UiModule { }
