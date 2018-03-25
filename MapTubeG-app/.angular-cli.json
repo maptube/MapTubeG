@@ -22,7 +22,7 @@
         "styles.css"
       ],
       "scripts": [
-        "./assets/mapboxgl.js"
+        "./assets/mapbox-gl.js"
       ],
       "environmentSource": "environments/environment.ts",
       "environments": {
